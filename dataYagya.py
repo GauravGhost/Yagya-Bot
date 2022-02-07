@@ -4,5 +4,6 @@ name_action = [
     'You call it madness, but I call it love.',
     'I need you like a heart needs a beat.',
     'My soul and your soul are forever tangled.',
-    'It’s always better when we’re together.'
+    'It’s always better when we’re together.',
+    'luca have killer smile',
 ]
